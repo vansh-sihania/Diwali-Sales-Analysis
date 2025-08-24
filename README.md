@@ -23,16 +23,16 @@ Orders, Amount – Purchase details
 
 📊 Key Analysis Performed
 
-Data Cleaning
+Data Cleaning:
 Removed null values & unnecessary columns
 Standardized column names
 
-Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA):
 Sales distribution by gender, age group, and marital status
 Most popular states & zones in terms of revenue
 Top product categories and best-selling items
 Spending behavior of different customer groups
 
-Visualizations
+Visualizations:
 Bar charts, pie charts, and histograms for customer insights
 Heatmaps for correlation analysis
